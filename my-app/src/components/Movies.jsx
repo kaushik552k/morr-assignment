@@ -13,16 +13,19 @@ export default function Movies() {
             <Header />
 
             <h6 className="heading_style">Popular Movies </h6>
-
+        
             {Data.map((val) => {
-                return (
-                    <Card
-                        imgsrc={val.images}
-                        title={val.title}
-                        sname={val.description}
-                        releaseYear={val.releaseYear}
-                    />
-                )
+                if(val.programType==='movie' && val.releaseYear>=2010){
+                    return (
+                        <Card
+                            imgsrc={val.images}
+                            title={val.title}
+                            sname={val.description}
+                            releaseYear={val.releaseYear}
+                        />
+                    )
+                
+            }
             })}
             <Footer/>
 

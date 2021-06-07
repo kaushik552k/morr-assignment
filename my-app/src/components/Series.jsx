@@ -14,14 +14,22 @@ export default function Series() {
             <h6 className="heading_style">Popular Series </h6>
 
             {Data.map((val) => {
-                return (
-                    <Card
-                        imgsrc={val.images}
-                        title={val.title}
-                        sname={val.description}
-                        releaseYear={val.releaseYear}
-                    />
-                )
+                if(val.programType==='series' && val.releaseYear>=2010){
+                   
+                        return (
+                            <Card
+                                imgsrc={val.images}
+                                title={val.title}
+                                sname={val.description}
+                                releaseYear={val.releaseYear}
+                            />
+                        )
+
+                    
+              
+                 }
+
+                
             })}
 
             <Footer/>
