@@ -1,0 +1,13 @@
+body{
+    background-color: #fff;
+}
+.heading_style{
+    
+    padding: 20px 7rem;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #414141;
+    margin-bottom: 30px;
+}
