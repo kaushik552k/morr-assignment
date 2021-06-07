@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with this project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -28,4 +28,9 @@ The main code is in the src folder. Index.html file is present inpublic folder f
 All the images are stored in the assests folder which is in components folder.
 Package.json file consist of all the pakages which is used in this project.
 
+## How did you decide on the technical and architectural choices used as part of your solution?
+Firstly, I thought of making header and footer part as it is used in all components.
+Then, I moved on to the movies and series component as this was the major part of the project. Their styling was almost same so created one of them perfectly and then copied to another one.
+I created the Home page.
+Then finally, I started fetching json objects in movies and series component accordingly
 
