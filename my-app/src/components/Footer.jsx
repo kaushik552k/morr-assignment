@@ -35,7 +35,7 @@ export default function Footer() {
   <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
     <div class="d-lg-block" style={{marginLeft:'5em'}}>
     <a>
-        <img className="social-icon" src={fb} alt="" />
+        <img className="social-icon" src={fb} alt="" style={{width:'18px'}}/>
       </a>
       <a >
       <img className="social-icon" src={twitter} alt="" />
@@ -52,7 +52,7 @@ export default function Footer() {
       <img className="store-icon" src={play} alt="" />
       </a>
       <a href="">
-      <img className="store-icon" src={microsoft} alt="" />
+      <img className="store-icon" src={microsoft} alt="" style={{width:'7rem'}}/>
       </a>
     <div>
     </div>
