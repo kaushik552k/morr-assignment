@@ -40,7 +40,7 @@ I would have added series and movies link to nav bar also.
 
 ### What would you do differently if you were allocated more time?
 Actually there was my college exam in this past two days, so i cannot gave my 100 percent to this project.
-I have made almost ecerything but i could not limit data to 21 and the sorting part.
+I have made almost everything according to the need but i could not limit data to 21 and the sorting part.
 Rest all the filtering i have applied.
 
 I would have added pagination to this if given more time.
