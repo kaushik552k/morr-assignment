@@ -23,12 +23,12 @@ You will also see any lint errors in the console.
 Bootstrap
 React-router-dom
 
-### Folder Structure
+## Folder Structure
 The main code is in the src folder. Index.html file is present inpublic folder from where all the other components are connected.
 All the images are stored in the assests folder which is in components folder.
 Package.json file consist of all the pakages which is used in this project.
 
-## How did you decide on the technical and architectural choices used as part of your solution?
+### How did you decide on the technical and architectural choices used as part of your solution?
 Firstly, I thought of making header and footer part as it is used in all components.
 Then, I moved on to the movies and series component as this was the major part of the project. Their styling was almost same so created one of them perfectly and then copied to another one.
 I created the Home page.
