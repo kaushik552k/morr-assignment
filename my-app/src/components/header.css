@@ -1,0 +1,25 @@
+
+.button{
+    color: white;
+    border: none;
+    background-color: #414141;
+    margin: 5px 0px 5px 0px;
+    padding: 0 14px 0 14px;
+}
+.btn:hover{
+    color: white;
+}
+.navbar-brand{
+    margin-left: 7rem;
+    font-weight: bold;
+}
+
+.d-flex{
+    margin-right: 7rem;
+}
+.login{
+    color: white;
+    margin-top: 10px;
+    margin-right:20px;
+    cursor: pointer;
+}
