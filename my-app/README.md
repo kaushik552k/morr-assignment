@@ -34,3 +34,16 @@ Then, I moved on to the movies and series component as this was the major part o
 I created the Home page.
 Then finally, I started fetching json objects in movies and series component accordingly
 
+### Are there any improvements you could make to your submission?
+Yes I would have also displayed few more details to card as the details are limited.
+I would have added series and movies link to nav bar also.
+
+### What would you do differently if you were allocated more time?
+Actually there was my college exam in this past two days, so i cannot gave my 100 percent to this project.
+I have made almost ecerything but i could not limit data to 21 and the sorting part.
+Rest all the filtering i have applied.
+
+I would have added pagination to this if given more time.
+Could have made more interactive UI.
+
+I hope you will appreciate my work
