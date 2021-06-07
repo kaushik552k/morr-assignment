@@ -3,9 +3,9 @@
 
 ## To run this project
 1. clone from github
-2. type 'npm install'
+2. type 'cd my-app'
+3. type 'npm install'
 ( to install all the packages )
-3. type 'cd my-app'
 4. type 'npm start'
 ( to start the project )
 
